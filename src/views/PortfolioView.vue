@@ -17,7 +17,7 @@ export default {
           id: 2,
           name: 'Alas Mart',
           imageUrl: 'alasmart',
-          status: 'This alasmart website was created by RUNG{}CODE for freelance to transact products or services provided by Worker and spent by Owner..',
+          status: 'This alasmart website was created by RUNG{}CODE for freelance to transact products or services provided by Worker and spent by Owner.',
           tech: 'Laravel 10, Tailwind',
           github: 'null',
           demo: 'https://yougopedia.com/'
